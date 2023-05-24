@@ -1,0 +1,68 @@
+.buttonEntry {
+  margin-top: 40px;
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 16px;
+  gap: 10px;
+
+  width: 260px;
+  height: 48px;
+
+  /* font-family: "Poppins"; */
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #ffffff;
+
+  background: #a8a8a8;
+  border-color: #a8a8a8;
+  border-radius: 12px;
+}
+
+.h1 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 578px;
+  height: 30px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  /* #282E3F */
+
+  color: #282e3f;
+}
+
+.h2 {
+  margin-bottom: 24px;
+  width: 255px;
+  height: 20px;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 122% */
+
+  /* #E65100 */
+
+  color: #e65100;
+}
+
+.logo {
+  width: 250px;
+  height: 142.5px;
+}
+
+.containerLogo {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
